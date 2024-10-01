@@ -47,14 +47,25 @@ Generated Password: fS3&kL7!xWzQ
 - Numbers: 0-9
 - Special Characters: !@#$%^&*()_+-=[]{}|;:'",.<>?/
 
-## Example of Running the Program
+## Installation and Running
 
-##Run the Program
+1. **Clone the Repository**:
+```bash
+git clone https://github.com/lavneethora/Password_Generator.git
+```
+
+2. **Navigate to the Project Directory**:
+```bash
+cd Password_Generator
+```
+
+3. **Run the Code**:
 ```bash
 python password_generator.py
 ```
 
 ## Example Output
+
 ```bash
 Enter the desired password length: 16
 Include uppercase letters? (yes/no): yes
@@ -83,3 +94,4 @@ Generated Password: A4tXgWqzDf5Hm6Rj
 - Lavneet Hora
 - Sophomore @ Texas Tech University
 - Computer Science
+- 
