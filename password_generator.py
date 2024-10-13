@@ -2,7 +2,15 @@ import random
 from lists import letters
 from lists import numbers
 from lists import symbols
-from art import password_generator_logo
+
+password_generator_logo = """
+  _____                                    _    _____                           _             
+ |  __ \                                  | |  / ____|                         | |            
+ | |__) |_ _ ___ _____      _____  _ __ __| | | |  __  ___ _ __   ___ _ __ __ _| |_ ___  _ __ 
+ |  ___/ _` / __/ __\ \ /\ / / _ \| '__/ _` | | | |_ |/ _ \ '_ \ / _ \ '__/ _` | __/ _ \| '__|
+ | |  | (_| \__ \__ \\ V  V / (_) | | | (_| | | |__| |  __/ | | |  __/ | | (_| | || (_) | |   
+ |_|   \__,_|___/___/ \_/\_/ \___/|_|  \__,_|  \_____|\___|_| |_|\___|_|  \__,_|\__\___/|_|                                                                                        
+"""
 
 print(password_generator_logo)    
 print("Welcome to the PyPassword Generator!")
